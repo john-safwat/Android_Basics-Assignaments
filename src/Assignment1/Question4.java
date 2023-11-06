@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class Question4 {
 
-
+    // main function ( the entry point of the code )
     public static void main(String[] args) {
 
         // define the scanner to take inputs from user

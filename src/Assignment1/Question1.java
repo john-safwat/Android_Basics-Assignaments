@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Question1 {
 
 
-    // main function ( the entry point of the doe )
+    // main function ( the entry point of the code )
     public static void main(String[] args) {
 
         // define the scanner object to read inputs from user

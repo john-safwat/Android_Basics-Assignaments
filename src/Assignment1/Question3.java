@@ -10,14 +10,14 @@ public class Question3 {
 
 
 
-    // main function ( the entry point of the doe )
+    // main function ( the entry point of the code )
     public static void main(String[] args) {
 
         // define the scanner object to read inputs from user
         Scanner scanner = new Scanner(System.in);
 
         // read input from user and store it in variable
-        System.out.print("Enter Month Number : ");
+        System.out.print("Enter Character : ");
         char character = scanner.next().charAt(0);
 
 
