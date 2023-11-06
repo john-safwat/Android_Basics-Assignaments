@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Question2 {
 
 
-    // main function ( the entry point of the doe )
+    // main function ( the entry point of the code )
     public static void main(String[] args) {
 
         // define the scanner object to read inputs from user
@@ -23,7 +23,6 @@ public class Question2 {
 
     }
 
-    // function that take the number and return month name
     public static String validateOnMonthSeason(int monthNumber){
 
         // if the number is between 1 : 12 the function will return the Season name if not the function will return invalid month number message
