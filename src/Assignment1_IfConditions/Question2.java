@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // Write a java program that read a number of the month and print the month is in Summer, spring, winter or autumn.
 

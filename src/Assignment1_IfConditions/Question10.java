@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 //3.write a program to calculate the sum of positive integers and sum of negative integers for 6 integers.
 //Example:

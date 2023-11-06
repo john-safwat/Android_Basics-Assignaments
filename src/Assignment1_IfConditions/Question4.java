@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // In this Program we are making a simple calculator that performs addition, subtraction, multiplication
 //and division based on the user input. The program takes the value of both the numbers (entered by

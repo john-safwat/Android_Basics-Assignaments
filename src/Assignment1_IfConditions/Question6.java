@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // Write a program which calculates marks on basis of given grades in java using switch statement
 //if Grade A then marks >=80
