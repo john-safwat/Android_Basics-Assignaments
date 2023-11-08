@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // 1. Write a Java program to get a number from the user and print whether it is positive or negative.
 //Input number: 35

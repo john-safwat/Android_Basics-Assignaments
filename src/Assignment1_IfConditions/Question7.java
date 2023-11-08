@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // Input
 //The first(and only)input line contains an integer number—the weight of the watermelon bought by the boys.

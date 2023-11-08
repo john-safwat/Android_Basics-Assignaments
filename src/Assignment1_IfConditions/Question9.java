@@ -1,20 +1,14 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
+//3-minandmax
+//How Can Find The Minimum/maximum of three numbers using conditional operator. for example
+//315
+//Max=5
+//Min=1
 
 import java.util.Scanner;
 
-// 2-SortingThreeFloatingNumbers
-//Write a program that reads in three Floating-point numbers and sort them. For Example
-//2.5
-//9
-//4
-//Use only conditional statement
-//Output
-//2.5
-//4
-//9
-public class Question8 {
-
+public class Question9 {
 
     // main function ( the entry point of the code )
     public static void main(String[] args) {
@@ -33,15 +27,15 @@ public class Question8 {
 
 
         // validate on the number
-        sortNumbers(num1 , num2 ,num3);
+        maxAndMinValue(num1 , num2 ,num3);
 
     }
-
 
     // this function compare the first two number and swap them if the first number is greater than the second number
     // then it compare between the third number and the second number if the second is grater then it swap
     // at the last step it compare between the first and second value again to make sure that the first value is the smallest value
-    public static void sortNumbers(float num1 , float num2 , float num3){
+    // after sorting the numbers then the first number will be the min value and the last is the max value
+    public static void maxAndMinValue(float num1 , float num2 , float num3){
 
         if (num1 > num2) {
             float temp = num1;
@@ -61,9 +55,9 @@ public class Question8 {
             num2 = temp;
         }
 
-        System.out.println(num1);
-        System.out.println(num2);
-        System.out.println(num3);
+        System.out.println("Min = " + num1);
+        System.out.println("Max = " + num3);
+
 
     }
 

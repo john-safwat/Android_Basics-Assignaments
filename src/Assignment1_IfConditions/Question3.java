@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // The alphabets A, E, I, O and U (smallcase and uppercase) are known as Vowels and rest of the
 //alphabets are known as consonants. Here we will write a java program that checks whether the

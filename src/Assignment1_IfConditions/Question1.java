@@ -1,4 +1,4 @@
-package Assignment1;
+package Assignment1_IfConditions;
 
 // Write a java program that read a number of the month And then print the name of it
 
