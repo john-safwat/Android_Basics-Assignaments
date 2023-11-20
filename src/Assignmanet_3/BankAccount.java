@@ -56,12 +56,20 @@ public class BankAccount {
 
     // Method to withdraw money
     public void withdraw(double amount) {
+        // validate on the value of the amount is less tan or equal to the balance so that we can withdraw from it
         if (amount > 0 && amount <= balance) {
             balance -= amount;
             System.out.println("Withdrawal of $" + amount + " successful. New balance: $" + balance);
         } else {
             System.out.println("Withdrawal failed. Insufficient funds.");
         }
+    }
+
+    // deposit function to update the amount of balance
+    public void deposit (double amount){
+        // validate on the amount of the
+        if(amount > 0) balance+= amount;
+        else System.out.println("Invalid Amount to add");
     }
 
 }
