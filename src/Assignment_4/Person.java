@@ -3,8 +3,8 @@ package Assignment_4;
 public class Person {
 
     // define the variables in class
-    private String name ;
-    private String address;
+    protected String name ;
+    protected String address;
 
     // the default constructor to us give initial value to variables
     Person(){
