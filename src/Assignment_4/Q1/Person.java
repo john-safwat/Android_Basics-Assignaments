@@ -1,4 +1,4 @@
-package Assignment_4;
+package Assignment_4.Q1;
 
 public class Person {
 

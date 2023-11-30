@@ -1,13 +1,13 @@
-package Assignment_4;
+package Assignment_4.Q1;
 
 import java.util.ArrayList;
 
 public class Student extends  Person{
 
     // define the variables of the class
-    private int numCourses ;
-    private ArrayList<String> courses;
-    private ArrayList<Integer> grades ;
+    protected int numCourses ;
+    protected ArrayList<String> courses;
+    protected ArrayList<Integer> grades ;
 
     // the default constructor to us give initial value to variables
     Student(){
